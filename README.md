@@ -43,12 +43,6 @@ A organização das pastas segue o padrão obrigatório estabelecido:
 
 ---
 
-## Board de Gestão (Backlog)
-O acompanhamento das tarefas e o progresso das Sprints podem ser visualizados no link abaixo:
-> [LINK DO SEU BOARD AQUI - Ex: Trello/Jira/GitHub Projects]
-
----
-
 ## Como "Rodar" o Projeto (Documentação)
 Como este projeto foca na Documentação do MVP (Entrega A):
 1. Navegue até a pasta /docs.
